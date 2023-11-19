@@ -1,0 +1,15 @@
+{
+    "name": "tarefa-1-posta-en-produccion-segura",
+    "version": "1.0.0",
+    "description": "Proyecto de cálculo de la secuencia de Fibonacci",
+    "main": "fibo.js",
+    "scripts": {
+      "test": "jest test_fibo.js"
+    },
+    "author": "Rodrigo Sambade Saá",
+    "license": "MIT",
+    "devDependencies": {
+      "jest": "^27.0.4"
+    }
+  }
+  
